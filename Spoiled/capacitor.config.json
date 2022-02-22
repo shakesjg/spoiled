@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Spoiled",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

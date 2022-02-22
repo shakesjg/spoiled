@@ -1,0 +1,7 @@
+{
+  "name": "Spoiled",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
